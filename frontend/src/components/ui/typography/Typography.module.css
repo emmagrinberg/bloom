@@ -1,0 +1,44 @@
+/* Thin */
+.p1 {
+    font-weight: 100;
+}
+
+/* Extra Light */
+.p2 {
+    font-weight: 200;
+}
+
+/* Light */
+.p3 {
+    font-weight: 300;
+}
+
+/* Regular */
+.p4 {
+    font-weight: 400;
+}
+
+/* Medium */
+.p5 {
+    font-weight: 500;
+}
+
+/* Semi Bold */
+.p6 {
+    font-weight: 600;
+}
+
+/* Bold */
+.p7 {
+    font-weight: 700;
+}
+
+/* Extra Bold */
+.p8 {
+    font-weight: 800;
+}
+
+/* Black */
+.p9 {
+    font-weight: 900;
+}
